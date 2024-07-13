@@ -549,6 +549,7 @@ a {
 /* footer top start here  */
 .footer-top {
   background-color: #232323;
+  margin: 0 0 0 7px;
   padding: 80px 0px;
   color: #fff;
 }
@@ -626,6 +627,7 @@ a {
 /* footer start here  */
 .sub-footer {
   background-color: #343434;
+  margin: 0 0 0 7px;
   padding: 25px 0px;
 }
 .sub-footer-content {
